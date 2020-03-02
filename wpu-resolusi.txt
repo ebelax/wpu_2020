@@ -2,3 +2,4 @@ WPU-Resulosi
 - konsitensi semanagt untuk blajar
 - ambil certifikasi 
 - membuat form diskusi
+- lebih mahir programing 
